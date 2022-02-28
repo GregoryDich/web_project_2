@@ -1,0 +1,11 @@
+.nav__link {
+    margin-right: 20px;
+    text-decoration: none;
+    transition: color, .5s;
+    color: #000000;
+    font-weight: 500;
+}
+
+.nav__link:hover {
+    color: #2F80ED;
+}

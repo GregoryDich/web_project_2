@@ -1,0 +1,8 @@
+.menu__title {
+    max-width: 780px;
+    margin: 0 auto 24px;
+    text-align: center;
+    font-weight: 500;
+    font-size: 44px;
+    line-height: 52px;
+}

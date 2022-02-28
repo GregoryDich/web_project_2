@@ -1,0 +1,29 @@
+.footer__content-wrapper {
+    flex-direction: column;
+}
+
+.footer__social-heading {
+    margin: 0 0 20px 0;
+}
+
+.footer__list-item {
+    margin: 0 0 16px 0;
+    opacity: 1;
+    transition: opacity .6s;
+}
+
+.footer__list-item:hover {
+    opacity: .6;
+}
+
+.footer__list-item-text {
+    margin: 0;
+}
+
+.footer__icon {
+    margin-right: 10px;
+}
+
+.footer__copyright {
+    margin-top: 108px;
+}

@@ -1,0 +1,5 @@
+.recipes__video-caption {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}

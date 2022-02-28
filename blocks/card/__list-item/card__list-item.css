@@ -1,0 +1,9 @@
+.card__list-item {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 16px;
+}
+
+.card__list-item:first-of-type {
+    padding-top: 0;
+}

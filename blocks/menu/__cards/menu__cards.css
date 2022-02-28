@@ -1,0 +1,6 @@
+.menu__cards {
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+    max-width: 1300px;
+}

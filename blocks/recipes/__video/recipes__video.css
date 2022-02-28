@@ -1,0 +1,7 @@
+.recipes__video {
+    width: 480px;
+}
+
+.recipes__video:first-child {
+    margin-right: 40px;
+}
