@@ -1,8 +1,10 @@
 .about__circle {
-    position: absolute;
-    top: -152px;
-    left: -129px;
-    width: 400px;
-    height: 400px;
-    z-index: 0;
+  position: absolute;
+  top: -152px;
+  left: -129px;
+  width: 400px;
+  height: 400px;
+  z-index: 0;
+  background-color: #2f80ed;
+  border-radius: 50%;
 }

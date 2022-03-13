@@ -1,4 +1,5 @@
 .nav {
-    list-style: none;
-    align-self: flex-start;
+  list-style: none;
+  align-self: flex-start;
+  z-index: 2;
 }

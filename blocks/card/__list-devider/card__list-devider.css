@@ -1,6 +1,5 @@
 .card__list-devider {
-    width: 100%;
-    display: inline-block;
-    border-bottom: 1px solid white;
-    margin: 0 4px 4px;
+  width: 100%;
+  border-bottom: 1px solid white;
+  margin: 0 4px 4px;
 }

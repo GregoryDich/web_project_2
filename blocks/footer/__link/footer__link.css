@@ -1,5 +1,6 @@
 .footer__link {
-    color: #fff;
-    text-decoration: none;
-    display: flex;
+  color: #fff;
+  text-decoration: none;
+  display: flex;
+  margin: 0;
 }

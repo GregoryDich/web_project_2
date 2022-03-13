@@ -1,5 +1,6 @@
 .header__paragraph {
-    font-weight: 500;
-    margin: 0;
-    color: #838383;
+  font-weight: 500;
+  margin: 0;
+  color: #838383;
+  z-index: 2;
 }

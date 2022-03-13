@@ -1,7 +1,7 @@
 .header__image {
-    position: absolute;
-    width: 40%;
-    z-index: 0;
-    top: 94px;
-    right: 5px;
+  position: absolute;
+  width: 700px;
+  z-index: 0;
+  top: 44px;
+  right: 5px;
 }

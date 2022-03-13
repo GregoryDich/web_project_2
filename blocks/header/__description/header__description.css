@@ -1,7 +1,8 @@
 .header__description {
-    font-family: 'Noto Serif';
-    font-size: 20px;
-    line-height: 30px;
-    margin: 0 0 115px 50px;
-    max-width: 50%;
+  font-family: "Noto Serif ", " Times New Roman ", serif;
+  font-size: 20px;
+  line-height: 30px;
+  margin: 28px 0 115px 50px;
+  max-width: 683px;
+  z-index: 2;
 }

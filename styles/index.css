@@ -49,6 +49,6 @@
 @import url(../blocks/footer/__content-wrapper/footer__content-wrapper.css);
 @import url(../blocks/footer/__social-heading/footer__social-heading.css);
 @import url(../blocks/footer/__list-item/footer__list-item.css);
-@import url(../blocks/footer/__list-item-text/footer__list-item-text.css);
-@import url(../blocks/footer/__icon/footer__icon.css);
+@import url(../blocks/footer/__social-icon/footer__social-icon.css);
 @import url(../blocks/footer/__copyright/footer__copyright.css);
+@import url(../blocks/recipes/__iframe/recipes__iframe.css);
