@@ -1,11 +1,15 @@
 .header {
-    display: flex;
-    flex-direction: column;
-    padding: 30px 80px 40px 30px;
-    background-color: #FFFFFF;
-    position: relative;
-    background-image: url(../../images/background_header.svg);
-    background-repeat: no-repeat;
-    background-size: cover;
-    overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  padding: 30px 80px 40px 30px;
+  background-color: #ffffff;
+  position: relative;
+  background-image: url(../../images/background_header.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow: hidden;
+  min-height: 720px;
+  max-height: 800px;
+  box-sizing: border-box;
+  height: 100vh;
 }

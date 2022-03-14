@@ -30,7 +30,7 @@
 @import url(../blocks/reservation/reservation.css);
 @import url(../blocks/reservation/__title/reservation__title.css);
 @import url(../blocks/form/form.css);
-@import url(../blocks/form/__label-text/form__label-text.css);
+@import url(../blocks/form/__label/form__label.css);
 @import url(../blocks/form/__fieldset/form__fieldset.css);
 @import url(../blocks/form/__input/form__input.css);
 @import url(../blocks/form/__button/form__button.css);
@@ -52,3 +52,4 @@
 @import url(../blocks/footer/__social-icon/footer__social-icon.css);
 @import url(../blocks/footer/__copyright/footer__copyright.css);
 @import url(../blocks/recipes/__iframe/recipes__iframe.css);
+@import url(../blocks/header/__paragraph-wrapper/header__paragraph-wrapper.css);

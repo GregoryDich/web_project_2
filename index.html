@@ -13,7 +13,7 @@
       type="image/x-icon"
       href="./images/favicon_coffee_bean.ico"
     />
-    <link rel="stylesheet" href="./styles/index.css" />
+    <link rel="stylesheet" href="./pages/index.css" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
@@ -203,7 +203,7 @@
           <h2 class="reservation__title">Book a table</h2>
           <form class="form reservation__form">
             <fieldset class="form__fieldset">
-              <label for="nameInput" class="form__label-text">Name *</label>
+              <label for="nameInput" class="form__label">Name *</label>
               <input
                 class="form__input"
                 id="nameInput"
@@ -211,7 +211,7 @@
                 placeholder="Name Surname"
                 required
               />
-              <label for="numberInput" class="form__label-text"
+              <label for="numberInput" class="form__label"
                 >Number of guests *</label
               >
               <input
@@ -223,13 +223,9 @@
                 min="1"
                 max="8"
               />
-              <label for="dateInput" class="form__label-text"
-                >Date and time *</label
-              >
+              <label for="dateInput" class="form__label">Date and time *</label>
               <input class="form__input" id="dateInput" type="date" required />
-              <label for="emailInput" class="form__label-text"
-                >Your email *</label
-              >
+              <label for="emailInput" class="form__label">Your email *</label>
               <input
                 class="form__input"
                 id="emailInput"
@@ -247,7 +243,7 @@
                 id="checkboxInput"
                 type="checkbox"
               />
-              <label for="checkboxInput" class="form__label-text"
+              <label for="checkboxInput" class="form__label"
                 >I agree with terms of use</label
               >
             </div>
